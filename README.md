@@ -188,7 +188,11 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
   font-size: 16px;
   margin: 4px 2px;
   cursor: pointer;
+ </body>
+</html>
 }
+</body>
+</html>
 
                  <div class="col-md-2">
           <h3 style="color:white;">_______</h3>
