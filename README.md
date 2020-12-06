@@ -35,7 +35,7 @@
 
 
 
-<!DOCTYPE html>
+
 <html>
 <title>W3.CSS Template</title>
 <meta charset="UTF-8">
@@ -153,6 +153,39 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           <p><a class="btn btn-secondary" href="ACscratchexp.github.io/" role="button">First Draft<a href="https://rubenbravolugo.github.io/ScrathEXP/"> </a> </a></p>
           </div>
           
+
+
+
+                
+      <div class="container">
+        <!-- Example row of columns -->
+        <div class="row">
+
+                <div class="col-md-2">
+            <h3>FA#1</h3>
+            <p><a class="btn btn-secondary" href="ACscratchexp.github.io/" role="button">Final Draft <a href="https://rubenbravolugo.github.io/ScrathEXP/"> </a> </a></p>
+          </div>
+
+              <p style="color:white">a</p>
+          
+                <div class="col-md-2">
+            <h3 style="color:white;">_______</h3>
+            <p><a class="btn btn-secondary" href="ACscratchexp.github.io/" role="button">Revisions<a href="https://rubenbravolugo.github.io/ScrathEXP/"> </a> </a></p>
+          </div>
+
+                 <div class="col-md-2">
+          <h3 style="color:white;">_______</h3>
+          <p><a class="btn btn-secondary" href="ACscratchexp.github.io/" role="button">Supporting Document<a href="https://rubenbravolugo.github.io/ScrathEXP/"> </a> </a></p>
+          </div>
+          <p style="color:white">Thi1 is a par</p>
+
+
+                <div class="col-md-2">
+          <h3 style="color:white;">_______</h3>
+          <p><a class="btn btn-secondary" href="ACscratchexp.github.io/" role="button">First Draft<a href="https://rubenbravolugo.github.io/ScrathEXP/"> </a> </a></p>
+          </div>
+          
+
 
 
         </div>
