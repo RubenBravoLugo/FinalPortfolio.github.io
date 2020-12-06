@@ -129,9 +129,9 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
         <!-- Example row of columns -->
         <div class="row">
 
-          <div class="col-md-2">
+          
             <h3>FA#3</h3>
-            <p><a role="button">View details <a href="https://rubenbravolugo.github.io/ScrathEXP/"> </a> </a></p>
+            <p><a class="btn btn-secondary" href="ACscratchexp.github.io/" role="button">View details <a href="https://rubenbravolugo.github.io/ScrathEXP/"> </a> </a></p>
           </div>
           
 
