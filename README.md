@@ -135,14 +135,17 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           </div>
           
                 <div class="col-md-2">
-            <h3></h3>
+            <h3>e</h3>
             <p><a class="btn btn-secondary" href="ACscratchexp.github.io/" role="button">Revisions<a href="https://rubenbravolugo.github.io/ScrathEXP/"> </a> </a></p>
           </div>
 
           <div class="col-md-2">
+          <h3>e</h3>
           <p><a class="btn btn-secondary" href="ACscratchexp.github.io/" role="button">Supporting Document<a href="https://rubenbravolugo.github.io/ScrathEXP/"> </a> </a></p>
           </div>
-          
+
+          <div class="col-md-2">
+          <h3>e</h3>
           <p><a class="btn btn-secondary" href="ACscratchexp.github.io/" role="button">First Draft<a href="https://rubenbravolugo.github.io/ScrathEXP/"> </a> </a></p>
           </div>
           
