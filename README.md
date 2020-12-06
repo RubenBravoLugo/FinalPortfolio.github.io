@@ -134,7 +134,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
             <p><a class="btn btn-secondary" href="ACscratchexp.github.io/" role="button">Final Draft <a href="https://rubenbravolugo.github.io/ScrathEXP/"> </a> </a></p>
           </div>
 
-              <p style="color:white">Th</p>
+              <p style="color:white"></p>
           
                 <div class="col-md-2">
             <h3>_______</h3>
@@ -145,7 +145,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           <h3>_______</h3>
           <p><a class="btn btn-secondary" href="ACscratchexp.github.io/" role="button">Supporting Document<a href="https://rubenbravolugo.github.io/ScrathEXP/"> </a> </a></p>
           </div>
-          <p style="color:white">Thi11 is a par</p>
+          <p style="color:white">Thi1 is a par</p>
 
 
                 <div class="col-md-2">
