@@ -134,7 +134,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
             <p><a class="btn btn-secondary" href="ACscratchexp.github.io/" role="button">Final Draft <a href="https://rubenbravolugo.github.io/ScrathEXP/"> </a> </a></p>
           </div>
 
-              <p style="color:white"></p>
+              <p style="color:white">a</p>
           
                 <div class="col-md-2">
             <h3>_______</h3>
