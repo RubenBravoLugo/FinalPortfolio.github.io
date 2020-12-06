@@ -130,13 +130,19 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
         <div class="row">
 
           <div class="col-md-2">
-            <h3>FA#3</h3>
-            <p><a class="btn btn-secondary" href="ACscratchexp.github.io/" role="button">FA#1 <a href="https://rubenbravolugo.github.io/ScrathEXP/"> </a> </a></p>
+            <h3>Formal Assignment # 1</h3>
+            <p><a class="btn btn-secondary" href="ACscratchexp.github.io/" role="button">Final Draft <a href="https://rubenbravolugo.github.io/ScrathEXP/"> </a> </a></p>
           </div>
           
                 <div class="col-md-2">
-            <h3>FA#3</h3>
-            <p><a class="btn btn-secondary" href="ACscratchexp.github.io/" role="button">View details <a href="https://rubenbravolugo.github.io/ScrathEXP/"> </a> </a></p>
+            <h3></h3>
+            <p><a class="btn btn-secondary" href="ACscratchexp.github.io/" role="button">Revisions<a href="https://rubenbravolugo.github.io/ScrathEXP/"> </a> </a></p>
+          </div>
+          
+          <p><a class="btn btn-secondary" href="ACscratchexp.github.io/" role="button">Supporting Document<a href="https://rubenbravolugo.github.io/ScrathEXP/"> </a> </a></p>
+          </div>
+          
+          <p><a class="btn btn-secondary" href="ACscratchexp.github.io/" role="button">First Draft<a href="https://rubenbravolugo.github.io/ScrathEXP/"> </a> </a></p>
           </div>
           
 
