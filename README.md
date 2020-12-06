@@ -91,6 +91,20 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Jan 2015 - <span class="w3-tag w3-teal w3-round">Current</span></h6>
           <p>Lorem ipsum dolor sit amet. Praesentium magnam consectetur vel in deserunt aspernatur est reprehenderit sunt hic. Nulla tempora soluta ea et odio, unde doloremque repellendus iure, iste.</p>
           <hr>
+
+
+              
+      <div class="container">
+        <!-- Example row of columns -->
+        <div class="row">
+
+          <div class="col-md-2">
+            <h2>Scratch Programs</h2>
+            <p><a class="btn btn-secondary" href="ACscratchexp.github.io/" role="button">View details <a href="https://rubenbravolugo.github.io/ScrathEXP/"> </a> </a></p>
+          </div>
+          
+
+
         </div>
         <div class="w3-container">
           <h5 class="w3-opacity"><b>Web Developer / something.com</b></h5>
