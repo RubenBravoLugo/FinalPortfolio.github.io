@@ -143,7 +143,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           <h3>_______</h3>
           <p><a class="btn btn-secondary" href="ACscratchexp.github.io/" role="button">Supporting Document<a href="https://rubenbravolugo.github.io/ScrathEXP/"> </a> </a></p>
           </div>
-          _______
+          <p style="color:red">This is a paragraph.</p>
 
 
                 <div class="col-md-2">
