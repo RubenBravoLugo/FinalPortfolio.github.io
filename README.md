@@ -274,7 +274,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           <hr>
         </div>
         <div class="w3-container">
-          <h5 class="w3-opacity"><b>School of Coding</b></h5>
+          <h5 class="w3-opacity"><b> </b></h5>
      
           <p>Other 1</p><br>
         </div>
