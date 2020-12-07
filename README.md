@@ -285,13 +285,13 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
       </div>
 
     <!-- End Right Column -->
-    </div>
+   
     
   <!-- End Grid -->
-  </div>
+ 
   
   <!-- End Page Container -->
-</div>
+
 
 <footer class="w3-container w3-teal w3-center w3-margin-top">
   <p>Find me on social media.</p>
