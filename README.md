@@ -221,7 +221,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           
                 <div class="col-md-2">
             <h3 style="color:white;">_______</h3>
-            <p><a class="btn btn-secondary" href="ACscratchexp.github.io/" style="background-color:teal;" role="button">Revisions<a href="https://rubenbravolugo.github.io/ScrathEXP/"> </a> </a></p>
+            <p><a class="btn btn-secondary" href="https://docs.google.com/document/d/1eRZcsDpmYLlebFO358CKlu2AAL8izr9Y0hHnIxoQ03c/edit?usp=sharing" style="background-color:teal;" role="button">Revisions<a href="https://rubenbravolugo.github.io/ScrathEXP/"> </a> </a></p>
           </div>
 
                  <div class="col-md-2">
