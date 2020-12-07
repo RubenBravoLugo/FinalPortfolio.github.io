@@ -159,7 +159,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
 
                 <div class="col-md-2">
             <h3>FA#2</h3>
-            <p><a class="btn btn-secondary" href="ACscratchexp.github.io/" style="background-color:teal;" role="button">Final Draft <a href="https://rubenbravolugo.github.io/ScrathEXP/"> </a> </a></p>
+            <p><a class="btn btn-secondary" href="ACscratchexp.github.io/" style="background-color:teal;" role="button">Final Draft <a href="https://docs.google.com/document/d/1_djeViD4WpRUGp00E1VHccWZqM2WiUJF4Urxf3VTo9Q/edit?usp=sharing/"> </a> </a></p>
           </div>
 
               <p style="color:white">a</p>
