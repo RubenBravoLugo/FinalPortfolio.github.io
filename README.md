@@ -260,7 +260,7 @@ These papers I have written have been the longest I have ever written ever in my
 
                 <div class="col-md-2">
             <h3>FA#3</h3>
-            <p><a class="btn btn-secondary" href="ACscratchexp.github.io/" style="background-color:teal;" role="button">Final Draft <a href="https://rubenbravolugo.github.io/ScrathEXP/"> </a> </a></p>
+            <p><a class="btn btn-secondary" href="https://docs.google.com/document/d/1eRZcsDpmYLlebFO358CKlu2AAL8izr9Y0hHnIxoQ03c/edit?usp=sharing" style="background-color:teal;" role="button">Final Draft <a href="https://rubenbravolugo.github.io/ScrathEXP/"> </a> </a></p>
           </div>
 
               <p style="color:white">a</p>
