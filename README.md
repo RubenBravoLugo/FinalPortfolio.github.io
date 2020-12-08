@@ -169,7 +169,8 @@ I do feel that the peer edits were not that helpful, however looking at other pe
           <hr>
 
 
-              
+                <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-certificate fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Table of Contents</h2>
+
       <div class="container">
         <!-- Example row of columns -->
         <div class="row">
