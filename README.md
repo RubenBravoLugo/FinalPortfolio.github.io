@@ -107,10 +107,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
             <div class="w3-round-xlarge w3-teal" style="height:24px;width:25%"></div>
           </div>
 
-           <div class="col-md-2">
-            <h3>FA#1</h3>
-            <p><a class="btn btn-secondary" href="https://docs.google.com/document/d/1SIlHvcpWVNjuRklXRnSpqJ88wd61PcSnHj5ZliTbbU0/edit?usp=sharing" style="background-color:teal;" role="button">Final Draft <a href="https://rubenbravolugo.github.io/ScrathEXP/"> </a> </a></p>
-          </div>
+   
 
           
           <br>
@@ -281,40 +278,7 @@ I do feel that the peer edits were not that helpful, however looking at other pe
 
 
         </div>
-        <div class="w3-container">
-          <h5 class="w3-opacity"><b> </b></h5>
-          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>  </h6>
-                        
-    
-          <hr>
-        </div>
-        <div class="w3-container">
-          <h5 class="w3-opacity"><b> </b></h5>
-          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>J </h6>
-          <p> </p><br>
-        </div>
-      </div>
-
-      <div class="w3-container w3-card w3-white">
-
-        <div class="w3-container">
-          <h5 class="w3-opacity"><b> </b></h5>
-    
-
-
-
-
-          <p> </p>
-          <hr>
-        </div>
-        <div class="w3-container">
-          <h5 class="w3-opacity"><b> </b></h5>
-        
-          <p> </p>
-          <hr>
-        </div>
-        <div class="w3-container">
-          <h5 class="w3-opacity"><b> </b></h5>
+     
      
           <p> </p><br>
         </div>
