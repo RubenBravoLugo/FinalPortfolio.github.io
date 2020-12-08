@@ -254,14 +254,14 @@ I do feel that the peer edits were not that helpful, however looking at other pe
 
                  <div class="col-md-2">
           <h3 style="color:white;">_______</h3>
-          <p><a class="btn btn-secondary" href="ACscratchexp.github.io/" style="background-color:teal;" role="button">Supporting Document<a href="https://rubenbravolugo.github.io/ScrathEXP/"> </a> </a></p>
+          <p><a class="btn btn-secondary" href="https://docs.google.com/document/d/1fozI45LEekBkueSKqBLIw3G9C99sSoBXVC5SFhJqG2I/edit?usp=sharing" style="background-color:teal;" role="button">Supporting Document<a href="https://rubenbravolugo.github.io/ScrathEXP/"> </a> </a></p>
           </div>
           <p style="color:white">Thi1 is a par</p>
 
 
                 <div class="col-md-2">
           <h3 style="color:white;">_______</h3>
-          <p><a class="btn btn-secondary" href="ACscratchexp.github.io/" style="background-color:teal;" role="button">First Draft<a href="https://rubenbravolugo.github.io/ScrathEXP/"> </a> </a></p>
+          <p><a class="btn btn-secondary" href="https://docs.google.com/document/d/19WWz-ZcjXicllCtXnMyU7OA7X6bWeJzNhXXdvdwz_no/edit?usp=sharing" style="background-color:teal;" role="button">First Draft<a href="https://rubenbravolugo.github.io/ScrathEXP/"> </a> </a></p>
           </div>
           
 
@@ -277,7 +277,7 @@ I do feel that the peer edits were not that helpful, however looking at other pe
         <div class="row">
 
                 <div class="col-md-2">
-            <h3>FA#3</h3>
+            <h3> </h3>
             <p><a class="btn btn-secondary" href="ACscratchexp.github.io/" style="background-color:teal;" role="button">Peer Review<a href="https://rubenbravolugo.github.io/ScrathEXP/"> </a> </a></p>
           </div>
 
@@ -293,7 +293,7 @@ I do feel that the peer edits were not that helpful, however looking at other pe
         <div class="row">
 
                 <div class="col-md-2">
-            <h3>FA#3</h3>
+            <h3> </h3>
             <p><a class="btn btn-secondary" href="ACscratchexp.github.io/" style="background-color:teal;" role="button">Informal assignments <a href="https://rubenbravolugo.github.io/ScrathEXP/"> </a> </a></p>
           </div>
 
@@ -309,7 +309,7 @@ I do feel that the peer edits were not that helpful, however looking at other pe
         <div class="row">
 
                 <div class="col-md-2">
-            <h3>FA#3</h3>
+            <h3> </h3>
             <p><a class="btn btn-secondary" href="ACscratchexp.github.io/" style="background-color:teal;" role="button">Final Draft <a href="https://rubenbravolugo.github.io/ScrathEXP/"> </a> </a></p>
           </div>
 
