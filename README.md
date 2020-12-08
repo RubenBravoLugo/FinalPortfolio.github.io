@@ -58,26 +58,11 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
     <div class="w3-third">
 
     
-           <div class="col-md-2">
-            <h3>FA#1</h3>
-            <p><a class="btn btn-secondary" href="https://docs.google.com/document/d/1SIlHvcpWVNjuRklXRnSpqJ88wd61PcSnHj5ZliTbbU0/edit?usp=sharing" style="background-color:teal;" role="button">Final Draft <a href="https://rubenbravolugo.github.io/ScrathEXP/"> </a> </a></p>
-          </div>
-
-          
-
-
-    
       <div class="w3-white w3-text-grey w3-card-4">
         <div class="w3-display-container">
          
 
         
-           <div class="col-md-2">
-            <h3>FA#1</h3>
-            <p><a class="btn btn-secondary" href="https://docs.google.com/document/d/1SIlHvcpWVNjuRklXRnSpqJ88wd61PcSnHj5ZliTbbU0/edit?usp=sharing" style="background-color:teal;" role="button">Final Draft <a href="https://rubenbravolugo.github.io/ScrathEXP/"> </a> </a></p>
-          </div>
-
-          
 
 
           <div class="w3-display-bottomleft w3-container w3-text-black">
@@ -315,132 +300,6 @@ I do feel that the peer edits were not that helpful, however looking at other pe
         <div class="w3-container">
           <h5 class="w3-opacity"><b> </b></h5>
     
-
-
-
-             
-      <div class="container">
-        <!-- Example row of columns -->
-        <div class="row">
-
-                <div class="col-md-2">
-            <h3>FA#1</h3>
-            <p><a class="btn btn-secondary" href="https://docs.google.com/document/d/1SIlHvcpWVNjuRklXRnSpqJ88wd61PcSnHj5ZliTbbU0/edit?usp=sharing" style="background-color:teal;" role="button">Final Draft <a href="https://rubenbravolugo.github.io/ScrathEXP/"> </a> </a></p>
-          </div>
-
-              <p style="color:white">a</p>
-          
-                <div class="col-md-2">
-            <h3 style="color:white;">_______</h3>
-            <p><a class="btn btn-secondary" href="https://docs.google.com/document/d/1Tmlzt2ifj5A7S3OV_lPlhNinvwS-RX6UyMp1fOxvcA4/edit?usp=sharing" style="background-color:teal;" role="button">Revisions<a href="https://rubenbravolugo.github.io/ScrathEXP/"> </a> </a></p>
-          </div>
-
-                 <div class="col-md-2">
-          <h3 style="color:white;">_______</h3>
-          <p><a class="btn btn-secondary" href="ACscratchexp.github.io/" style="background-color:teal;" role="button">Supporting Document<a href="https://rubenbravolugo.github.io/ScrathEXP/"> </a> </a></p>
-          </div>
-          <p style="color:white">Thi1 is a par</p>
-
-
-                <div class="col-md-2">
-          <h3 style="color:white;">_______</h3>
-          <p><a class="btn btn-secondary" href="ACscratchexp.github.io/" style="background-color:teal;" role="button">First Draft<a href="https://rubenbravolugo.github.io/ScrathEXP/"> </a> </a></p>
-          </div>
-          
-
-
-   ________________________________________________________________________________________
-
-                
-      <div class="container">
-        <!-- Example row of columns -->
-        <div class="row">
-
-                <div class="col-md-2">
-            <h3>FA#2</h3>
-            <p><a class="btn btn-secondary" href="https://docs.google.com/document/d/1_djeViD4WpRUGp00E1VHccWZqM2WiUJF4Urxf3VTo9Q/edit?usp=sharing/" style="background-color:teal;" role="button">Final Draft <a href="https://docs.google.com/document/d/1_djeViD4WpRUGp00E1VHccWZqM2WiUJF4Urxf3VTo9Q/edit?usp=sharing/"> </a> </a></p>
-          </div>
-
-              <p style="color:white">a</p>
-          
-                <div class="col-md-2">
-            <h3 style="color:white;">_______</h3>
-            <p><a class="btn btn-secondary" href="ACscratchexp.github.io/" style="background-color:teal;" role="button">Revisions<a href="https://rubenbravolugo.github.io/ScrathEXP/"> </a> </a></p>
-          </div>
-
-
-<html>
-<head>
-<style>
-.button {
-  background-color: #4CAF50;
-  border: none;
-  color: white;
-  padding: 15px 32px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
-  margin: 4px 2px;
-  cursor: pointer;
-}
-</style>
-</head>
-<body>
-
-                 <div class="col-md-2">
-          <h3 style="color:white;">_______</h3>
-          <p><a class="btn btn-secondary" href="ACscratchexp.github.io/" style="background-color:teal;" role="button">Supporting Document<a href="https://rubenbravolugo.github.io/ScrathEXP/"> </a> </a></p>
-          </div>
-          <p style="color:white">Thi1 is a par</p>
-
-
-                <div class="col-md-2">
-          <h3 style="color:white;">_______</h3>
-          <p><a class="btn btn-secondary" href="ACscratchexp.github.io/" style="background-color:teal;" role="button">First Draft<a href="https://rubenbravolugo.github.io/ScrathEXP/"> </a> </a></p>
-          </div>
-          
-
-
-
-
-          ________________________________________________________________________________________
-
-                
-      <div class="container">
-        <!-- Example row of columns -->
-        <div class="row">
-
-                <div class="col-md-2">
-            <h3>FA#3</h3>
-            <p><a class="btn btn-secondary" href="ACscratchexp.github.io/" style="background-color:teal;" role="button">Final Draft <a href="https://rubenbravolugo.github.io/ScrathEXP/"> </a> </a></p>
-          </div>
-
-              <p style="color:white">a</p>
-          
-                <div class="col-md-2">
-            <h3 style="color:white;">_______</h3>
-            <p><a class="btn btn-secondary" href="https://docs.google.com/document/d/1eRZcsDpmYLlebFO358CKlu2AAL8izr9Y0hHnIxoQ03c/edit?usp=sharing" style="background-color:teal;" role="button">Revisions<a href="https://rubenbravolugo.github.io/ScrathEXP/"> </a> </a></p>
-          </div>
-
-                 <div class="col-md-2">
-          <h3 style="color:white;">_______</h3>
-          <p><a class="btn btn-secondary" href="ACscratchexp.github.io/" style="background-color:teal;" role="button">Supporting Document<a href="https://rubenbravolugo.github.io/ScrathEXP/"> </a> </a></p>
-          </div>
-          <p style="color:white">Thi1 is a par</p>
-
-
-                <div class="col-md-2">
-          <h3 style="color:white;">_______</h3>
-          <p><a class="btn btn-secondary" href="ACscratchexp.github.io/" style="background-color:teal;" role="button">First Draft<a href="https://rubenbravolugo.github.io/ScrathEXP/"> </a> </a></p>
-          </div>
-          
-
-
-           ________________________________________________________________________________________
-
-
-
 
 
 
