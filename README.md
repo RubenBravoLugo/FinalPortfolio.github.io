@@ -276,6 +276,49 @@ I do feel that the peer edits were not that helpful, however looking at other pe
 
 
 
+                      
+      <div class="container">
+        <!-- Example row of columns -->
+        <div class="row">
+
+                <div class="col-md-2">
+            <h3>FA#3</h3>
+            <p><a class="btn btn-secondary" href="ACscratchexp.github.io/" style="background-color:teal;" role="button">Peer Review<a href="https://rubenbravolugo.github.io/ScrathEXP/"> </a> </a></p>
+          </div>
+
+          
+           ________________________________________________________________________________________
+
+
+
+
+                      
+      <div class="container">
+        <!-- Example row of columns -->
+        <div class="row">
+
+                <div class="col-md-2">
+            <h3>FA#3</h3>
+            <p><a class="btn btn-secondary" href="ACscratchexp.github.io/" style="background-color:teal;" role="button">Informal assignments <a href="https://rubenbravolugo.github.io/ScrathEXP/"> </a> </a></p>
+          </div>
+
+          
+           ________________________________________________________________________________________
+
+
+
+
+                      
+      <div class="container">
+        <!-- Example row of columns -->
+        <div class="row">
+
+                <div class="col-md-2">
+            <h3>FA#3</h3>
+            <p><a class="btn btn-secondary" href="ACscratchexp.github.io/" style="background-color:teal;" role="button">Final Draft <a href="https://rubenbravolugo.github.io/ScrathEXP/"> </a> </a></p>
+          </div>
+
+
 
         </div>
      
