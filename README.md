@@ -100,13 +100,44 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           <p>french</p>
           <div class="w3-light-grey w3-round-xlarge">
             <div class="w3-round-xlarge w3-teal" style="height:24px;width:25%"></div>
+
+
+
+
+
           </div>
           <br>
         </div>
       </div><br>
 
 
+          <div class="container">
+        <!-- Example row of columns -->
+        <div class="row">
 
+                <div class="col-md-2">
+            <h3>FA#1</h3>
+            <p><a class="btn btn-secondary" href="https://docs.google.com/document/d/1SIlHvcpWVNjuRklXRnSpqJ88wd61PcSnHj5ZliTbbU0/edit?usp=sharing" style="background-color:teal;" role="button">Final Draft <a href="https://rubenbravolugo.github.io/ScrathEXP/"> </a> </a></p>
+          </div>
+
+              <p style="color:white">a</p>
+          
+                <div class="col-md-2">
+            <h3 style="color:white;">_______</h3>
+            <p><a class="btn btn-secondary" href="https://docs.google.com/document/d/1Tmlzt2ifj5A7S3OV_lPlhNinvwS-RX6UyMp1fOxvcA4/edit?usp=sharing" style="background-color:teal;" role="button">Revisions<a href="https://rubenbravolugo.github.io/ScrathEXP/"> </a> </a></p>
+          </div>
+
+                 <div class="col-md-2">
+          <h3 style="color:white;">_______</h3>
+          <p><a class="btn btn-secondary" href="ACscratchexp.github.io/" style="background-color:teal;" role="button">Supporting Document<a href="https://rubenbravolugo.github.io/ScrathEXP/"> </a> </a></p>
+          </div>
+          <p style="color:white">Thi1 is a par</p>
+
+
+                <div class="col-md-2">
+          <h3 style="color:white;">_______</h3>
+          <p><a class="btn btn-secondary" href="ACscratchexp.github.io/" style="background-color:teal;" role="button">First Draft<a href="https://rubenbravolugo.github.io/ScrathEXP/"> </a> </a></p>
+          </div>
       
 
 
