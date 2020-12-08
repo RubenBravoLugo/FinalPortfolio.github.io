@@ -139,26 +139,33 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           <h5 class="w3-opacity"><b> </b></h5>
           <p> 
 
+
 <p>
-"Writing is writing and nothing more" that's the quote that I dragged in my head throughout high school, Unfortunately it managed to get me through high school, and I came in to college with that same mentality. My first informal assignments were me just writing to "fill up space" and I had a tough time even doing that. One of my struggles as a writer is coming up with enough content to write about, In the beginning I would take several hours to write one paragraph for an informal assignment, and even so my quality of content did not reflect it. After the informal assignments and readings, my ability to pick out specific stuff, to see more in writing, and find significant meaning out of seemingly unimportant things is one skill that I improved upon. After reading chapter one in the textbook, I learned about rhetorical thinking and asked the following questions when analyzing and writing a paper.
+"Writing is writing and nothing more" that's the quote that I dragged in my head throughout high school, Unfortunately, it managed to get me through high school, and I came into college with that same mentality. My first informal assignments were me just writing to "fill up space," and I had a tough time even doing that. One of my struggles as a writer is coming up with enough content to write about, In the beginning, I would take several hours to write one paragraph for an informal assignment, and even so, my quality of content did not reflect it. After the informal assignments and readings, my ability to pick out specific stuff, to see more in writing, and find significant meaning out of seemingly unimportant things is one skill that I improved upon. After reading chapter one in the textbook, I learned about rhetorical thinking and asked the following questions when analyzing and writing a paper.
 </p>
 <p>
--"How do you want to come across to your audience?" 						               -"What can you do to represent yourself as knowledgeable and credible?" 			               -"What can you do to show respect both for your audience and for those whose work and thinking you engage with?"											               -"How can you show that you have your audience's best interests at heart?"			        (Also known as Pathos, Ethos, Logos)
+-"How do you want to come across to your audience?"</p>
+<p>
+  -"What can you do to represent yourself as knowledgeable and credible?" </p>
+<p>
+"What can you do to show respect both for your audience and for those whose work and thinking you engage with?"	</p>
+<p>
+	-"How can you show that you have your audience's best interests at heart?"			        (Also known as Pathos, Ethos, Logos)
 </p>
 <p>
-I identified and answered these questions in my final drafts, as demonstrated in my FA#2 by keeping my tone formal and staying away from as much personal pronouns as possible, by citing sources, I come across to my audience as professional, and as respectable (Pathos). In FA#1 I gave my audience a reason to listen after the second paragraph, "Learning this new language yielded many benefits for anyone." Intriguing the reader and luring them to ask, "I wonder what benefits it yields for me"(Logos). In FA#3, I have established some credibility for myself by writing down that I been on this topic for four years (Ethos).
+I identified and answered these questions in my final drafts, as demonstrated in my FA#2 by keeping my tone formal and staying away from as many personal pronouns as possible, by citing sources, I come across to my audience as professional, and as respectable (Pathos). In FA#1 I gave my audience a reason to listen after the second paragraph, "Learning this new language yielded many benefits for anyone." Intriguing the reader and luring them to ask, "I wonder what benefits it yields for me"(Logos). In FA#3, I have established some credibility for myself by writing down that I have been on this topic for four years (Ethos).
 </p>
 <p>
-The five rhetoric situations were a hard concept, and I still don't really get why the Stance is an important piece of a paper, however all others I managed to understand, I have included a peer review to demonstrate my understanding of the rhetoric situations. Although the genre is&#8217;nt really clear,according to chapter eleven, genres are flexible and evolve.
+The five rhetoric situations were a hard concept, and I still don't really get why the Stance is an important piece of a paper. However, all others I managed to understand, I have included a peer review to demonstrate my understanding of the rhetoric situations, I am able to spot a vague purpose, aswell as their medium/design would have been fitting as "audio in conjunction with a slideshow", and lacking ethos, Although the genre is&#8217;nt really clear, according to chapter eleven, genres are flexible and evolve.
 </p>
 <p>
-In this portfolio, I have included my first few informal assignments, along with my last few informal assignments to demonstrate how my content along with quality of writing has evolved. By using the chapter six fast and slow reading technique, I learned to "Stop to note a problem or confusion in the text and try to come up with a strategy for solving it." Which was my main problem when it came to active reading, if I didn't get something, I would simply move on.  Before chapter six, within my informal assignments, my terminology was very bare, and although it is an informal assignment, I used way to many bland words like "cool" and whatever popped into my head, reading chapter six gave me a sort of filter, and improved my overall content.
+In this portfolio, I have included my first few informal assignments and my last few informal assignments to demonstrate how my content and quality of writing have evolved. By using chapter six "fast and slow reading" technique, I learned to "Stop to note a problem or confusion in the text and try to come up with a strategy for solving it." Which was my main problem when it came to active reading, If I didn't get something, I would simply move on.  Before chapter six, within my informal assignments, my terminology was very bare, and although it is an informal assignment, I used way to many bland words like "pretty" and wrote down whatever popped into my head. Reading chapter six gave me a sort of filter, and improved my overall content, by relating my writing to the text, and limited my use of personal pronouns, which improved my Formal assignments aswell .
 </p>
 <p>
-I do feel that the peer edits were not that helpful, however looking at other people's papers, seeing what they wrote about was certainly helpful, and I was given many ideas on ways to improve my writing because of it. Something I found interesting is, According to my peer edits and feedback, it seems FA#2 was my weakest Formal assignment. Although short, I really thought this was my strongest Formal assignment, I do feel my analysis identifies many specific rhetoric situations and marketing techniques, like . These papers I have written have been the longest I have ever written ever in my life, what I discovered in this course is that there isn&#8217;t just one right way to write. All writing contains something anyone can enjoy doing. 
+I did include some peer review recommendations In my paper, but for the most part, the peer reviews were not that helpful. However looking at other people's papers, seeing what they wrote about was certainly helpful, and I was given many ideas on ways to improve my writing because of it. Something I found interesting is, According to my peer edits and feedback, it seems FA#2 was my weakest Formal assignment. Although short, I thought this was my strongest Formal assignment. I do feel my analysis identifies many specific rhetoric situations and marketing techniques, like transitioning from image to image quickly to leave the viewer confused and wanting to know more. 
+These papers I have written have been the longest I have ever written ever in my life. In this course, I discovered that there isn&#8217;t just one right way to write. All writing contains something anyone can enjoy doing, and for the future, I wish to improve further my ability to read analytically. 
 </p>
 
-</p>
           <hr>
 
 
@@ -289,7 +296,7 @@ I do feel that the peer edits were not that helpful, however looking at other pe
 
                 <div class="col-md-2">
             <h3> </h3>
-            <p><a class="btn btn-secondary" href="ACscratchexp.github.io/" style="background-color:teal;" role="button">Peer Review<a href="https://rubenbravolugo.github.io/ScrathEXP/"> </a> </a></p>
+            <p><a class="btn btn-secondary" href="https://docs.google.com/document/d/1B2I1Gyn96l0p9etrepnwOn1ZRs_K-5D3zOIHEEFHdko/edit?usp=sharing" style="background-color:teal;" role="button">Peer Review<a href="https://rubenbravolugo.github.io/ScrathEXP/"> </a> </a></p>
           </div>
 
           
@@ -305,7 +312,7 @@ I do feel that the peer edits were not that helpful, however looking at other pe
 
                 <div class="col-md-2">
             <h3> </h3>
-            <p><a class="btn btn-secondary" href="ACscratchexp.github.io/" style="background-color:teal;" role="button">Informal assignments <a href="https://rubenbravolugo.github.io/ScrathEXP/"> </a> </a></p>
+            <p><a class="btn btn-secondary" href="https://docs.google.com/document/d/1x5PqVHdaQA4CF_F_oQj3nJuYfugHLwDUeus1mntWfZI/edit?usp=sharing" style="background-color:teal;" role="button">Informal assignments <a href="https://rubenbravolugo.github.io/ScrathEXP/"> </a> </a></p>
           </div>
 
           
