@@ -56,10 +56,30 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
   
     <!-- Left Column -->
     <div class="w3-third">
+
+    
+           <div class="col-md-2">
+            <h3>FA#1</h3>
+            <p><a class="btn btn-secondary" href="https://docs.google.com/document/d/1SIlHvcpWVNjuRklXRnSpqJ88wd61PcSnHj5ZliTbbU0/edit?usp=sharing" style="background-color:teal;" role="button">Final Draft <a href="https://rubenbravolugo.github.io/ScrathEXP/"> </a> </a></p>
+          </div>
+
+          
+
+
     
       <div class="w3-white w3-text-grey w3-card-4">
         <div class="w3-display-container">
          
+
+        
+           <div class="col-md-2">
+            <h3>FA#1</h3>
+            <p><a class="btn btn-secondary" href="https://docs.google.com/document/d/1SIlHvcpWVNjuRklXRnSpqJ88wd61PcSnHj5ZliTbbU0/edit?usp=sharing" style="background-color:teal;" role="button">Final Draft <a href="https://rubenbravolugo.github.io/ScrathEXP/"> </a> </a></p>
+          </div>
+
+          
+
+
           <div class="w3-display-bottomleft w3-container w3-text-black">
             <h2> </h2>
           </div>
@@ -100,12 +120,8 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           <p>french</p>
           <div class="w3-light-grey w3-round-xlarge">
             <div class="w3-round-xlarge w3-teal" style="height:24px;width:25%"></div>
-
-
-          
-
-
           </div>
+
            <div class="col-md-2">
             <h3>FA#1</h3>
             <p><a class="btn btn-secondary" href="https://docs.google.com/document/d/1SIlHvcpWVNjuRklXRnSpqJ88wd61PcSnHj5ZliTbbU0/edit?usp=sharing" style="background-color:teal;" role="button">Final Draft <a href="https://rubenbravolugo.github.io/ScrathEXP/"> </a> </a></p>
@@ -117,12 +133,6 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
       </div><br>
 
 
-                <div class="col-md-2">
-            <h3>FA#1</h3>
-            <p><a class="btn btn-secondary" href="https://docs.google.com/document/d/1SIlHvcpWVNjuRklXRnSpqJ88wd61PcSnHj5ZliTbbU0/edit?usp=sharing" style="background-color:teal;" role="button">Final Draft <a href="https://rubenbravolugo.github.io/ScrathEXP/"> </a> </a></p>
-          </div>
-
-          
 
     <!-- End Left Column -->
     </div>
