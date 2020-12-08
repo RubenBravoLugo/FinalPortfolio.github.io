@@ -283,7 +283,7 @@ I do feel that the peer edits were not that helpful, however looking at other pe
         </div>
         <div class="w3-container">
           <h5 class="w3-opacity"><b> </b></h5>
-          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>  2014</h6>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>  </h6>
                         
     
           <hr>
@@ -291,12 +291,12 @@ I do feel that the peer edits were not that helpful, however looking at other pe
         <div class="w3-container">
           <h5 class="w3-opacity"><b> </b></h5>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>J </h6>
-          <p>other 7. </p><br>
+          <p> </p><br>
         </div>
       </div>
 
       <div class="w3-container w3-card w3-white">
-        <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-certificate fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Table of Contents</h2>
+
         <div class="w3-container">
           <h5 class="w3-opacity"><b> </b></h5>
     
@@ -304,19 +304,19 @@ I do feel that the peer edits were not that helpful, however looking at other pe
 
 
 
-          <p>W </p>
+          <p> </p>
           <hr>
         </div>
         <div class="w3-container">
           <h5 class="w3-opacity"><b> </b></h5>
         
-          <p>Other 2</p>
+          <p> </p>
           <hr>
         </div>
         <div class="w3-container">
           <h5 class="w3-opacity"><b> </b></h5>
      
-          <p>Other 1</p><br>
+          <p> </p><br>
         </div>
       </div>
 
