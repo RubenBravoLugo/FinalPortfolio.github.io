@@ -281,7 +281,7 @@ I do feel that the peer edits were not that helpful, however looking at other pe
      
      
           <p> </p><br>
-        </div>
+
       </div>
 
     <!-- End Right Column -->
