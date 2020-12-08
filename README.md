@@ -171,14 +171,14 @@ I do feel that the peer edits were not that helpful, however looking at other pe
 
                  <div class="col-md-2">
           <h3 style="color:white;">_______</h3>
-          <p><a class="btn btn-secondary" href="ACscratchexp.github.io/" style="background-color:teal;" role="button">Supporting Document<a href="https://rubenbravolugo.github.io/ScrathEXP/"> </a> </a></p>
+          <p><a class="btn btn-secondary" href="https://docs.google.com/document/d/1HAhkMfQBoxtLPVQLSxx7sJ65FVySfRcHWyr_nvRiemA/edit?usp=sharing" style="background-color:teal;" role="button">Supporting Document<a href="https://rubenbravolugo.github.io/ScrathEXP/"> </a> </a></p>
           </div>
           <p style="color:white">Thi1 is a par</p>
 
 
                 <div class="col-md-2">
           <h3 style="color:white;">_______</h3>
-          <p><a class="btn btn-secondary" href="ACscratchexp.github.io/" style="background-color:teal;" role="button">First Draft<a href="https://rubenbravolugo.github.io/ScrathEXP/"> </a> </a></p>
+          <p><a class="btn btn-secondary" href="https://docs.google.com/document/d/1qUx5h_pszbyL6gj4LZXJjqbrDY0V_8XSw6RRv7Ltgvo/edit?usp=sharing" style="background-color:teal;" role="button">First Draft<a href="https://rubenbravolugo.github.io/ScrathEXP/"> </a> </a></p>
           </div>
           
 
@@ -199,7 +199,7 @@ I do feel that the peer edits were not that helpful, however looking at other pe
           
                 <div class="col-md-2">
             <h3 style="color:white;">_______</h3>
-            <p><a class="btn btn-secondary" href="ACscratchexp.github.io/" style="background-color:teal;" role="button">Revisions<a href="https://rubenbravolugo.github.io/ScrathEXP/"> </a> </a></p>
+            <p><a class="btn btn-secondary" href="https://docs.google.com/document/d/1tNGJZI7vjdHjm4_tJuBbct-ZN0wAiqfK1ibX1-RVoB4/edit?usp=sharing" style="background-color:teal;" role="button">Revisions<a href="https://rubenbravolugo.github.io/ScrathEXP/"> </a> </a></p>
           </div>
 
 
@@ -222,11 +222,6 @@ I do feel that the peer edits were not that helpful, however looking at other pe
 </head>
 <body>
 
-                 <div class="col-md-2">
-          <h3 style="color:white;">_______</h3>
-          <p><a class="btn btn-secondary" href="ACscratchexp.github.io/" style="background-color:teal;" role="button">Supporting Document<a href="https://rubenbravolugo.github.io/ScrathEXP/"> </a> </a></p>
-          </div>
-          <p style="color:white">Thi1 is a par</p>
 
 
                 <div class="col-md-2">
@@ -254,7 +249,7 @@ I do feel that the peer edits were not that helpful, however looking at other pe
           
                 <div class="col-md-2">
             <h3 style="color:white;">_______</h3>
-            <p><a class="btn btn-secondary" href="https://docs.google.com/document/d/1eRZcsDpmYLlebFO358CKlu2AAL8izr9Y0hHnIxoQ03c/edit?usp=sharing" style="background-color:teal;" role="button">Revisions<a href="https://rubenbravolugo.github.io/ScrathEXP/"> </a> </a></p>
+            <p><a class="btn btn-secondary" href="https://docs.google.com/document/d/16I4K45ld4O2nTgNmUQZgqXpgBcsSThANtPU7OBXLF9U/edit?usp=sharing" style="background-color:teal;" role="button">Revisions<a href="https://rubenbravolugo.github.io/ScrathEXP/"> </a> </a></p>
           </div>
 
                  <div class="col-md-2">
