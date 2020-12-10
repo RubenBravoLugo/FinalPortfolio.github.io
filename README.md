@@ -244,7 +244,7 @@ These papers I have written have been the longest I have ever written ever in my
 
                 <div class="col-md-2">
           <h3 style="color:white;">_______</h3>
-          <p><a class="btn btn-secondary" href="ACscratchexp.github.io/" style="background-color:teal;" role="button">First Draft<a href="https://rubenbravolugo.github.io/ScrathEXP/"> </a> </a></p>
+          <p><a class="btn btn-secondary" href="https://docs.google.com/document/d/1o5RoHKXX2QTRvnMpLaHX9Yoc-366VzOxHDAjmrozfxk/edit?usp=sharing" style="background-color:teal;" role="button">First Draft<a href="https://rubenbravolugo.github.io/ScrathEXP/"> </a> </a></p>
           </div>
           
 
